@@ -34,4 +34,13 @@ public class SceneController : MonoBehaviour
 
         SceneManager.LoadScene(sceneName);
     }
+
+       public void GoToLevel1()
+    {
+        SceneManager.LoadScene("Level1");
+    }
+    public void GoToControls()
+    {
+      SceneManager.LoadScene("Options");
+    }
 }
