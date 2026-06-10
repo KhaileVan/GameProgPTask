@@ -18,7 +18,7 @@ The neighborhood is filled with aggressive animals like **birds**, **rats**, and
 * Enemies flash bright red when damaged and fly off-screen on death.
 ### 2. Recruitable Companion (Khaile)
 Along the way, you can rescue **Khaile** (the companion cat). Once recruited:
-* Khaile has **immortality** and will perform rescue double-jumps or escape hops to steer clear of water.
+* Khaile *isn't scared of falling btw** and will perform rescue double-jumps or escape hops to steer clear of water.
 * Khaile automatically scans for nearby enemies and attacks them with a crescent slash to protect you.
 ### 3. Obstacles & Hazards
 * **Scared of Water!**: Cats hate water. Landing in water or falling off screens is extremely dangerous.
